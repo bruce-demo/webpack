@@ -1,0 +1,14 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bruce-demo/webpack.git",
+  "author": "徐玉建 <yujian.xu@1012wellness.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/parser": "^7.14.4",
+    "@babel/preset-env": "^7.14.4",
+    "@babel/traverse": "^7.14.2"
+  }
+}
